@@ -1,0 +1,8 @@
+{
+  "name": "NGO Nexus: AI-Powered Donation & Volunteer Management",
+  "description": "A comprehensive NGO management platform featuring AI-driven volunteer matching, real-time donation analytics, and generative AI tools for social impact storytelling.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
